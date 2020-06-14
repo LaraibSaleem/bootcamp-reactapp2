@@ -12,13 +12,13 @@ function App() {
       <hr/>
       <br/>
 
-      <Dinner mainmeal="Chicken Biryani" sweet="Ras Malai"/>
+      <Dinner mainmeal="Chicken Karahi" sweet="Ras Malai"/>
 
       <br/>
       <hr/>
       <br/>
 
-      <Dinner mainmeal="Chicken Biryani" sweet="Brownies"/>
+      <Dinner mainmeal="Chinese Rice" sweet="Brownies"/>
 
     </div>
   );
